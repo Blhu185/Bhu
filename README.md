@@ -13,6 +13,8 @@
 ### Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=Blhu185&count_private=true&show_icons=true&theme=tokyonight) <br/>
+![B!hus's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 
 ### Contact
 
