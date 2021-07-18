@@ -12,8 +12,7 @@
 
 ### Statistics
 
-<br/>
-![B!hus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blhu185&count_private=true&theme=radical)
+![Blhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blhu185&count_private=true&theme=radical)<br/>
 
 
 ### Contact
