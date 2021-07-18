@@ -11,7 +11,7 @@
 - JavaScript *(Learning..)*
 
 ### Statistics
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blhu185&layout=compact&theme=radical)](https://github.com/Blhu185/github-readme-stats)<br/>
 ![Blhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blhu185&count_private=true&theme=radical)<br/>
 
 
