@@ -1,6 +1,6 @@
 ### Hi there, I'm B!hu 👋
 
-![](https://komarev.com/ghpvc/?username=fallnx) <br/>
+![](https://komarev.com/ghpvc/?username=fallnx&theme=radical) <br/>
 <a href="https://discord.gg/yrvnwu557g"><p><img align="center" src="https://discord.c99.nl/widget/theme-2/776224618516054036.png" alt="B!hu"/></a>
 #### I am the Lead Developer/Bot Owner of Reynard!.
 
