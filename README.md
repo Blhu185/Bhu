@@ -8,7 +8,7 @@
 ### Languages & Skills
 
 - Python 3 
-- JavaScript *(Learning..)*
+- JavaScript *(Learning.. with Vxty, kinda.)*
 
 ### Statistics
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blhu185&layout=compact&theme=radical)](https://github.com/Blhu185/github-readme-stats)<br/>
