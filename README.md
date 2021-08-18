@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h1 align="center">B!hu</h1>
-<p align="center">Intermediate Developer, I know: Python! I'm the Lead Developer and Bot Owner for Reynard.</p>
+<p align="center">I know Python! I'm the Lead Developer and Bot Owner for Reynard.</p>
 <a href="https://github.com/Blhu185">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Blhu185" alt="Profile Views">
