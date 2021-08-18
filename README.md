@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">Gowixx</h1>
+<h1 align="center">B!hu</h1>
 <p align="center">Intermediate Developer, I know: Python! I'm the Lead Developer and Bot Owner for Reynard.</p>
 <a href="https://github.com/Blhu185">
   <p align="center">
