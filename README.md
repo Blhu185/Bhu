@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/693502062650064906.png" />
+  <img src="https://discord.c99.nl/widget/theme-4/776224618516054036.png" />
   <br />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=Blhu185&theme=nord&margin-w=15&margin-h=1&column=6" />
